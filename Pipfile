@@ -1,0 +1,8 @@
+[packages]
+misaka = "*"
+pyyaml = "*"
+toml = "*"
+python-box = "*"
+
+[scripts]
+hello = "echo hello world!"
